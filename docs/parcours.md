@@ -17,13 +17,13 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2025 - En cours</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Diplôme d'ingénieur en génie électrique et mécatronique</span>
         <span style="font-style: italic; opacity: 0.9;">Polytech'Lille</span><br>
-        <span style="font-style: normal;font-size: 0.9em opacity: 0.9;">59655 - Villeneuve d'Ascq</span>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">59655 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2024 - 08/2025</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Licence pro Systèmes Automatisés, Réseaux et Informatique Industriel - Parcours Automatisme et Robotique</span>
         <span style="font-style: italic; opacity: 0.9;">Proméo Formation</span><br>
-        <span style="font-style: normal;font-size: 0.9em opacity: 0.9;">80080 - Amiens</span>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">80080 - Amiens</span>
       </li>
     </ul>
   </div>
@@ -40,14 +40,14 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Automaticien</span>
         <span style="font-style: italic; opacity: 0.9;">Pouchain SAS</span>
         <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates (Siemens/Schneider)<br>• Conception d'écrans HMI</small><br>
-        <span style="font-style: normal;font-size: 0.9em opacity: 0.9;">59553 - Cuincy</span>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">59553 - Cuincy</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2023 - 08/2024</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Electrotechnicien</span>
         <span style="font-style: italic; opacity: 0.9;">SGM Industry</span>
         <small style="display: block; margin-top: 5px; opacity: 0.8;">• Câblage d'armoires électriques<br>• Maintenance préventive sur chaîne de production</small><br>
-        <span style="font-style: normal;font-size: 0.9em opacity: 0.9;">33830 - Belin-Béliet</span>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">33830 - Belin-Béliet</span>
       </li>
     </ul>
   </div>
