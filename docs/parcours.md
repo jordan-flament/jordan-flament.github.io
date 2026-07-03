@@ -14,14 +14,14 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     
     <ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">2024 - Présent</span>
-        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Ingénieur en Automatisme</span>
-        <span style="font-style: italic; opacity: 0.9;">Nom de votre École / Université</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">2025 - En cours</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Diplôme d'ingénieur en génie électrique et mécatronique</span>
+        <span style="font-style: italic; opacity: 0.9;">Polytech'Lille</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">2022 - 2024</span>
-        <span style="font-weight: 600; display: block; margin-top: 5px;">Bac Pro / BTS Électrotechnique</span>
-        <span style="font-style: italic; opacity: 0.9;">Nom du Lycée ou CFA</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">2024 - 2025</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Licence pro Systèmes Automatisés, Réseaux et Informatique Industriel - Parcours Automatisme et Robotique</span>
+        <span style="font-style: italic; opacity: 0.9;">Proméo Formation</span>
       </li>
     </ul>
   </div>
@@ -34,15 +34,15 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     
     <ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">2024 - Présent</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">2024 - En cours</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Automaticien</span>
-        <span style="font-style: italic; opacity: 0.9;">Nom de l'Entreprise actuelle</span>
+        <span style="font-style: italic; opacity: 0.9;">Pouchain SAS</span>
         <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates (Siemens/Schneider)<br>• Conception d'écrans HMI</small>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">2022 - 2024</span>
-        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Électricien Industriel</span>
-        <span style="font-style: italic; opacity: 0.9;">Nom de la première entreprise</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">2023 - 2024</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Electrotechnicien</span>
+        <span style="font-style: italic; opacity: 0.9;">SGM Industry</span>
         <small style="display: block; margin-top: 5px; opacity: 0.8;">• Câblage d'armoires électriques<br>• Maintenance préventive sur chaîne de production</small>
       </li>
     </ul>
