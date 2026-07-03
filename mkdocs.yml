@@ -24,8 +24,8 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Mes Projets: projets.md
   - Mon Parcours: parcours.md
+  - Mes Projets: projets.md
 
 extra_javascript:
   - javascripts/effet.js

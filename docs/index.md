@@ -2,7 +2,7 @@
 
 # Bienvenue sur mon Portfolio
 
-Je suis Jordan Flament, Automaticien passionné par l'optimisation des systèmes industriels. 
+Je suis Jordan Flament, Ingénieur en génie électrique et mécatronique en formation, passionné par l'optimisation des systèmes industriels en particulier l'automatisme.
 
 À travers ce site, je vous invite à découvrir mon parcours professionnel ainsi que les différents projets techniques sur lesquels j'ai eu l'opportunité de travailler.
 

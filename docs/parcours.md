@@ -1,2 +1,55 @@
-# Les Compagnons du devoir et du tour de France
+# Mon parcours
 
+## Mon Parcours en Alternance
+
+Voici l'évolution en parallèle de ma formation théorique et de mon expérience concrète en entreprise depuis la sortie du collège.
+
+<div style="display: flex; gap: 25px; flex-wrap: wrap; margin-top: 30px;">
+  
+  <div style="flex: 1; min-width: 300px; background: rgba(64, 153, 255, 0.05); padding: 25px; border-radius: 8px; border-left: 4px solid #4099ff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0; color: #4099ff; display: flex; align-items: center; gap: 10px;">
+      🎓 Formation (École)
+    </h3>
+    <p style="margin-bottom: 25px; font-size: 0.9em; opacity: 0.8;">Mon apprentissage théorique et mes diplômes.</p>
+    
+    <ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
+      <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">2024 - Présent</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Ingénieur en Automatisme</span>
+        <span style="font-style: italic; opacity: 0.9;">Nom de votre École / Université</span>
+      </li>
+      <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">2022 - 2024</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Bac Pro / BTS Électrotechnique</span>
+        <span style="font-style: italic; opacity: 0.9;">Nom du Lycée ou CFA</span>
+      </li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; background: rgba(0, 200, 83, 0.05); padding: 25px; border-radius: 8px; border-left: 4px solid #00c853; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0; color: #00c853; display: flex; align-items: center; gap: 10px;">
+      🏢 Expérience (Entreprise)
+    </h3>
+    <p style="margin-bottom: 25px; font-size: 0.9em; opacity: 0.8;">Mes missions et compétences industrielles.</p>
+    
+    <ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
+      <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">2024 - Présent</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Automaticien</span>
+        <span style="font-style: italic; opacity: 0.9;">Nom de l'Entreprise actuelle</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates (Siemens/Schneider)<br>• Conception d'écrans HMI</small>
+      </li>
+      <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">2022 - 2024</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Électricien Industriel</span>
+        <span style="font-style: italic; opacity: 0.9;">Nom de la première entreprise</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Câblage d'armoires électriques<br>• Maintenance préventive sur chaîne de production</small>
+      </li>
+    </ul>
+  </div>
+
+</div>
+
+## Les Compagnons du devoir et du tour de France
+
+après un Tour de France chez les Compagnons du devoir et du Tour de France qui m’a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents, j’ai pu me découvrir une passion particulière pour l’industrie, en particulier l’électricité et l’automatisme. 
