@@ -1,7 +1,7 @@
 site_name: Portfolio de Jordan Flament
 theme:
-  logo: images/profil.jpg
-  favicon: images/profil.jpg
+  logo: images/france.webp
+  favicon: images/france.webp
   name: material
   palette:
     # Mode clair
@@ -26,3 +26,6 @@ nav:
   - Accueil: index.md
   - Mes Projets: projets.md
   - Mon Parcours: parcours.md
+
+extra_javascript:
+  - javascripts/effet.js
