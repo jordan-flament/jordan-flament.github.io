@@ -137,8 +137,8 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 </div>
 
 <div style="text-align: center; margin-top: 40px;">
-  <h3>📍 Découvrez les lieux où j'ai travaillé et étudié !</h3>
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19ZCTunMfb4iA7ofJiCRShvcs7SDFyaI&ehbc=2E312F" width="640" height="480"></iframe>" width="100%" height="450" style="border:0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" allowfullscreen="" loading="lazy"></iframe>
+  <h3>📍 Mon Tour de France professionnel</h3>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19ZCTunMfb4iA7ofJiCRShvcs7SDFyaI&ehbc=2E312F" width="100%" height="450" style="border:0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" allowfullscreen="" loading="lazy"></iframe>
 </div>
 
 
