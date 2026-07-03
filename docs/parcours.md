@@ -32,6 +32,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/promeo.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Proméo Formation
         </span><br>
+        <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">Mention : Bien</span><br>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">80080 - Amiens</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
@@ -136,9 +137,8 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 </div>
 
 <div style="text-align: center; margin-top: 40px;">
-  <h3>📍 Mon Tour de France professionnel</h3>
-  <iframe src="<iframe src="https://www.google.com/maps/d/embed?mid=19ZCTunMfb4iA7ofJiCRShvcs7SDFyaI&ehbc=2E312F" width="640" height="480"></iframe>" width="100%" height="450" style="border:0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" allowfullscreen="" loading="lazy"></iframe>
+  <h3>📍 Découvrez les lieux où j'ai travaillé et étudié !</h3>
+  <iframe src="<iframe src="https://www.google.com/maps/d/u/0/edit?mid=19ZCTunMfb4iA7ofJiCRShvcs7SDFyaI&usp=sharing" width="640" height="480"></iframe>" width="100%" height="450" style="border:0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" allowfullscreen="" loading="lazy"></iframe>
 </div>
-
 
 
