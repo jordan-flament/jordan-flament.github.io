@@ -1,0 +1,5 @@
+site_name: Portfolio de Jordan Flament
+theme:
+  name: material
+  palette:
+    primary: blue
