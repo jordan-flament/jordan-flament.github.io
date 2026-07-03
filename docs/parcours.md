@@ -1,5 +1,9 @@
 # Mon parcours
 
+## Les Compagnons du Devoir et du Tour de France
+
+Après avoir réalisé 3 années à préparer mon bac chez les Compagnons du Devoir et du Tour de France, je me suis lancé sur le Tour de France qui m'a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents. J'ai pu me découvrir une passion particulière pour l'industrie, en particulier l'électricité et l'automatisme.
+
 ## Mon Parcours en Alternance
 
 Voici l'évolution en parallèle de ma formation théorique et de mon expérience concrète en entreprise depuis la sortie du collège.
@@ -131,6 +135,10 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
   </div>
 </div>
 
-## Les Compagnons du Devoir et du Tour de France
+<div style="text-align: center; margin-top: 40px;">
+  <h3>📍 Mon Tour de France professionnel</h3>
+  <iframe src="<iframe src="https://www.google.com/maps/d/embed?mid=19ZCTunMfb4iA7ofJiCRShvcs7SDFyaI&ehbc=2E312F" width="640" height="480"></iframe>" width="100%" height="450" style="border:0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" allowfullscreen="" loading="lazy"></iframe>
+</div>
 
-Après avoir réalisé 3 années à préparer mon bac chez les Compagnons du Devoir et du Tour de France, je me suis lancé sur le Tour de France qui m'a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents. J'ai pu me découvrir une passion particulière pour l'industrie, en particulier l'électricité et l'automatisme.
+
+
