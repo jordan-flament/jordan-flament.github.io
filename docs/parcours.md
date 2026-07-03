@@ -25,6 +25,41 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: italic; opacity: 0.9;">Proméo Formation</span><br>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">80080 - Amiens</span>
       </li>
+      <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2024 - 08/2025</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">BTS électrotechnique</span>
+        <span style="font-style: italic; opacity: 0.9;">Les compagnons du devoir et du tour de France</span><br>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">37100 - Tours</span>
+      </li>
+      </li>
+        <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2022 - 08/2024</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Titre pro Technicien Supérieur en Maintenance Industrielle</span>
+        <span style="font-style: italic; opacity: 0.9;">Les compagnons du devoir et du tour de France</span><br>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">37100 - Tours</span>
+      </li>
+      </li>
+        <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2021 - 08/2022</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Titre pro Technicien en Maintenance Industrielle</span>
+        <span style="font-style: italic; opacity: 0.9;">Les compagnons du devoir et du tour de France</span><br>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">59491 - Villeneuve d'Ascq</span>
+      </li>
+      </li>
+        <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2018 - 08/2021</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Bac Pro Métier de l'Electricité et de ses Envrionnements Connectés</span>
+        <span style="font-style: italic; opacity: 0.9;">Les compagnons du devoir et du tour de France</span><br>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">Mention : Très bien</span><br>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">59491 - Villeneuve d'Ascq</span>
+      </li>
+      </li>
+        <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2018 - 08/2020</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">BEP Electrotechnique</span>
+        <span style="font-style: italic; opacity: 0.9;">Les compagnons du devoir et du tour de France</span><br>
+        <span style="font-style: normal;font-size: 0.9em ;opacity: 0.9;">59491 - Villeneuve d'Ascq</span>
+      </li>
     </ul>
   </div>
 
