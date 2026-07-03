@@ -2,4 +2,26 @@ site_name: Portfolio de Jordan Flament
 theme:
   name: material
   palette:
-    primary: blue
+    palette:
+    # Mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: slate
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer en mode sombre
+    
+    # Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: slate
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer en mode clair
+
+nav:
+  - Accueil: index.md
+  - Mes Projets: projets.md
+  - Mon Parcours: parcours.md
