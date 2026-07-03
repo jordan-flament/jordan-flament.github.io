@@ -74,40 +74,40 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2024 - En cours</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Automaticien</span>
         <span style="font-style: italic; opacity: 0.9;">Pouchain SAS</span>
-        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates :<br>• TIA Portal, Step 7, PCS7<br>• EcoStructure, Unity pro, PL7-pro <br> • PcVue <br> • PnozMultiConfigurator </small>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">59553 - Cuincy</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates :<br>• TIA Portal, Step 7, PCS7<br>• EcoStructure, Unity pro, PL7-pro <br> • PcVue <br> • PnozMultiConfigurator </small>
+        
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2023 - 08/2024</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Electrotechnicien</span>
         <span style="font-style: italic; opacity: 0.9;">SGM Industry</span>
-        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Réalisation de machines pour des parcs à bois, scieries <br> • Etude électrique (e-plan - see electrical expert) <br> • Automatisme (TIA Portal) <br> • Réalisation des armoires électrique<br> • Réalisation du câblage machine <br> • Essais et validation <br> • Dépannage - SAV <br> • Devis et commande </small><br>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">33830 - Belin-Béliet</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Réalisation de machines pour des parcs à bois, scieries <br> • Etude électrique (e-plan - see electrical expert) <br> • Automatisme (TIA Portal) <br> • Réalisation des armoires électrique<br> • Réalisation du câblage machine <br> • Essais et validation <br> • Dépannage - SAV <br> • Devis et commande </small>       
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2022 - 08/2023</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Technicien de maintenance itinérant</span>
         <span style="font-style: italic; opacity: 0.9;">MécaService</span>
-        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Maintenance mécanique <br> • Maintenance électrique <br> • Maintenance pneumatique <br> • Maintenance hydraulique <br> • Transfert industriel <br> • Dépannage <br> • Devis et  étude électrique </small><br>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">56350 - Rieux</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Maintenance mécanique <br> • Maintenance électrique <br> • Maintenance pneumatique <br> • Maintenance hydraulique <br> • Transfert industriel <br> • Dépannage <br> • Devis et  étude électrique </small>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2022 - 08/2023</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti monteur-câbleur</span>
         <span style="font-style: italic; opacity: 0.9;">Eurodifroid</span>
-        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Réalisation de machines de refroidissement <br> • Réalisation de coffret et armoires électrique <br> • Câblage machine <br> • Auto-contrôle</small><br>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">49140 - Seiches-sur-le-Loir</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Réalisation de machines de refroidissement <br> • Réalisation de coffret et armoires électrique <br> • Câblage machine <br> • Auto-contrôle</small>
       </li> 
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2022 - 08/2023</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti électricien</span>
-        <span style="font-style: italic; opacity: 0.9;">Eurodifroid</span>
-        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Réalisation d'installation électrique domestique et tertiare'<br> • Courant fort (CFO) <br> • Courant faible (CFA)<br> • Gestion de chantier </small><br>
+        <span style="font-style: italic; opacity: 0.9;">Ecotechnics</span>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">59650 - Villeneuve d'Ascq</span>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Réalisation d'installation électrique domestique et tertiaire<br> • Courant fort (CFO) <br> • Courant faible (CFA) <br> • Contrôle d'accès <br> • Incendie <br> • Réseau Ethernet <br> • Intrusion <br> • Vidéo-surveillance <br> • Gestion de chantier </small>
       </li>         
     </ul>
   </div>
-
 </div>
 
 ## Les Compagnons du Devoir et du Tour de France
