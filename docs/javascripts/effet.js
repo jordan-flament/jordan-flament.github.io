@@ -1,68 +1,128 @@
-document.addEventListener("DOMContentLoaded", function() {
-    // 1. Création de la toile de dessin invisible
+(function() {
+    // 1. CORRECTION DU BUG : On empêche le script de se recréer à chaque changement de page
+    if (window.effetReseauActif) return;
+    window.effetReseauActif = true;
+
+    // 2. Création de la toile de dessin
     const canvas = document.createElement('canvas');
-    canvas.id = 'globalWaterCanvas';
+    canvas.id = 'techNetworkCanvas';
     canvas.style.position = 'fixed';
     canvas.style.top = '0';
     canvas.style.left = '0';
     canvas.style.width = '100vw';
     canvas.style.height = '100vh';
-    canvas.style.pointerEvents = 'none'; // IMPORTANT : Laisse passer les clics de la souris !
-    canvas.style.zIndex = '90'; // Place l'animation sous le bandeau du haut (qui est à 122)
+    canvas.style.pointerEvents = 'none'; // Laisse passer les clics
+    canvas.style.zIndex = '90'; // Par dessus le fond, sous les menus
     document.body.appendChild(canvas);
 
     const ctx = canvas.getContext('2d');
-    
-    // 2. Ajustement de la taille
-    function resizeCanvas() {
+    let particules = [];
+
+    // 3. Ajustement de la taille
+    function redimensionner() {
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
+        initialiser(); // Recalcule le nombre de particules selon la taille de l'écran
     }
-    window.addEventListener('resize', resizeCanvas);
-    resizeCanvas();
+    window.addEventListener('resize', redimensionner);
 
-    let particles = [];
-    let hue = 0;
-
-    // 3. Suivi de la souris
-    document.addEventListener('mousemove', function(e) {
-        // Ne crée pas de particules si la souris est sur le bandeau du haut (les 60 premiers pixels)
-        if (e.clientY < 60) return;
-
-        for (let i = 0; i < 3; i++) {
-            particles.push({
-                x: e.clientX,
-                y: e.clientY,
-                size: Math.random() * 12 + 5,
-                speedX: Math.random() * 2 - 1,
-                speedY: Math.random() * 2 - 1,
-                color: 'hsl(' + hue + ', 100%, 50%)'
-            });
+    // 4. Suivi de la souris
+    let souris = { x: null, y: null, rayon: 150 };
+    window.addEventListener('mousemove', function(event) {
+        // Désactive l'effet si on est sur la barre de menu tout en haut
+        if (event.y < 60) {
+            souris.x = null;
+            souris.y = null;
+        } else {
+            souris.x = event.x;
+            souris.y = event.y;
         }
-        hue += 2;
+    });
+    window.addEventListener('mouseout', function() {
+        souris.x = null;
+        souris.y = null;
     });
 
-    // 4. Animation fluide
-    function animate() {
-        // Efface l'écran à chaque image pour ne pas cacher le texte du site
-        ctx.clearRect(0, 0, canvas.width, canvas.height); 
-        
-        for (let i = 0; i < particles.length; i++) {
-            particles[i].x += particles[i].speedX;
-            particles[i].y += particles[i].speedY;
-            particles[i].size -= 0.15; // La particule rétrécit
-            
-            ctx.fillStyle = particles[i].color;
+    // 5. Création des objets "Particules"
+    class Particule {
+        constructor() {
+            this.x = Math.random() * canvas.width;
+            this.y = Math.random() * canvas.height;
+            this.taille = Math.random() * 2 + 1;
+            this.vitesseX = (Math.random() * 1) - 0.5; // Vitesse très lente
+            this.vitesseY = (Math.random() * 1) - 0.5;
+        }
+        maj() {
+            this.x += this.vitesseX;
+            this.y += this.vitesseY;
+
+            // Rebondit sur les bords de l'écran
+            if (this.x < 0 || this.x > canvas.width) this.vitesseX *= -1;
+            if (this.y < 0 || this.y > canvas.height) this.vitesseY *= -1;
+        }
+        dessiner() {
             ctx.beginPath();
-            ctx.arc(particles[i].x, particles[i].y, particles[i].size, 0, Math.PI * 2);
+            ctx.arc(this.x, this.y, this.taille, 0, Math.PI * 2);
+            ctx.fillStyle = 'rgba(64, 153, 255, 0.8)'; // Bleu "Tech"
             ctx.fill();
-            
-            if (particles[i].size <= 0) {
-                particles.splice(i, 1);
-                i--;
+        }
+    }
+
+    // 6. Remplissage de l'écran
+    function initialiser() {
+        particules = [];
+        // Calcule un nombre de particules adapté à la taille de l'écran
+        let nbParticules = (canvas.height * canvas.width) / 12000;
+        for (let i = 0; i < nbParticules; i++) {
+            particules.push(new Particule());
+        }
+    }
+
+    // 7. Moteur d'animation global
+    function animer() {
+        requestAnimationFrame(animer);
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        for (let i = 0; i < particules.length; i++) {
+            particules[i].maj();
+            particules[i].dessiner();
+
+            // Lignes entre les particules
+            for (let j = i; j < particules.length; j++) {
+                let dx = particules[i].x - particules[j].x;
+                let dy = particules[i].y - particules[j].y;
+                let distance = Math.sqrt(dx * dx + dy * dy);
+
+                if (distance < 100) {
+                    ctx.beginPath();
+                    // Plus elles sont proches, plus la ligne est opaque
+                    ctx.strokeStyle = `rgba(64, 153, 255, ${1 - distance/100})`;
+                    ctx.lineWidth = 0.5;
+                    ctx.moveTo(particules[i].x, particules[i].y);
+                    ctx.lineTo(particules[j].x, particules[j].y);
+                    ctx.stroke();
+                }
+            }
+
+            // Lignes avec la souris
+            if (souris.x != null) {
+                let dx = particules[i].x - souris.x;
+                let dy = particules[i].y - souris.y;
+                let distance = Math.sqrt(dx * dx + dy * dy);
+
+                if (distance < souris.rayon) {
+                    ctx.beginPath();
+                    ctx.strokeStyle = `rgba(64, 153, 255, ${1 - distance/souris.rayon})`;
+                    ctx.lineWidth = 1;
+                    ctx.moveTo(particules[i].x, particules[i].y);
+                    ctx.lineTo(souris.x, souris.y);
+                    ctx.stroke();
+                }
             }
         }
-        requestAnimationFrame(animate);
     }
-    animate();
-});
+
+    // Lancement
+    redimensionner();
+    animer();
+})();
