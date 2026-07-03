@@ -4,8 +4,8 @@
 
 Voici l'évolution en parallèle de ma formation théorique et de mon expérience concrète en entreprise depuis la sortie du collège.
 
-<div style="display: flex; gap: 25px; flex-wrap: wrap; margin-top: 30px;">
-  
+<div style="display: flex; gap: 25px; flex-wrap: wrap; margin-top: 30px; margin-bottom: 30px;">
+
   <div style="flex: 1; min-width: 300px; background: rgba(64, 153, 255, 0.05); padding: 25px; border-radius: 8px; border-left: 4px solid #4099ff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #4099ff; display: flex; align-items: center; gap: 10px;">
       🎓 Formation (École)
@@ -50,6 +50,6 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 
 </div>
 
-## Les Compagnons du devoir et du tour de France
+## Les Compagnons du Devoir et du Tour de France
 
-après un Tour de France chez les Compagnons du devoir et du Tour de France qui m’a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents, j’ai pu me découvrir une passion particulière pour l’industrie, en particulier l’électricité et l’automatisme. 
+Après un Tour de France chez les Compagnons du Devoir et du Tour de France qui m'a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents, j'ai pu me découvrir une passion particulière pour l'industrie, en particulier l'électricité et l'automatisme.
