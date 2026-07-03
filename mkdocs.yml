@@ -2,7 +2,6 @@ site_name: Portfolio de Jordan Flament
 theme:
   name: material
   palette:
-    palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
       scheme: default
