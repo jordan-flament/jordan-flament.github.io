@@ -8,8 +8,6 @@ Je suis Jordan Flament, Ingénieur en génie électrique et mécatronique en for
 
 <div style="clear: both;"></div>
 
-<a href="https://compagnons-du-devoir.com/les-metiers/electrotechnique/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site des compagnons du devoir et du tour de France - Métier d'électrotechnicien ↗</a>
-
 ---
 
 ## Mon parcours
@@ -19,6 +17,8 @@ Je suis Jordan Flament, Ingénieur en génie électrique et mécatronique en for
 Après avoir réalisé 3 années à préparer mon bac chez les Compagnons du Devoir et du Tour de France, je me suis lancé sur le Tour de France qui m'a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents. J'ai pu me découvrir une passion particulière pour l'industrie, en particulier l'électricité et l'automatisme.
 
 <div style="clear: both;"></div>
+
+<a href="https://compagnons-du-devoir.com/les-metiers/electrotechnique/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site des compagnons du devoir et du tour de France - Métier d'électrotechnicien ↗</a>
 
 ### Mon Parcours en Alternance
 
