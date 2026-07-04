@@ -167,7 +167,7 @@ Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette 
 
 * **🥇 Médaille d'Or - Région Hauts-de-France :** Cette première victoire m'a permis de me qualifier directement pour les épreuves nationales.
 * **🥉 Médaille de Bronze - Finales Nationales :** Une place sur le podium qui m'a ouvert les portes des sélections très exigeantes de l'Équipe de France.
-* **🇫🇷 Sélection en Équipe de France :** À l'issue d'une épreuve de départage intense entre les trois médaillés nationaux, j'ai décroché ma qualification pour représenter le pays à l'international.
+* **<img src="images/france.webp" alt="Drapeau Français" style="height: 18px; vertical-align: middle; margin-right: 5px; border-radius: 2px;"> Sélection en Équipe de France :** À l'issue d'une épreuve de départage intense entre les trois médaillés nationaux, j'ai décroché ma qualification pour représenter le pays à l'international.
 * **🌍 12ème place Mondiale - Lyon 2024 :** L'aboutissement de ce parcours d'excellence, en affrontant les meilleurs talents de la planète lors de la compétition mondiale.
 
 <br>
