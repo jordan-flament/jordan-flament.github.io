@@ -159,7 +159,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 
 ## Worldskills
 
-<img src="images/worldskills.png" alt="Logo WorldSkills" width="120" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="images/worldskills.png" alt="Logo WorldSkills" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 En 2022, j'ai fait le choix de repousser mes limites en participant aux **WorldSkills** (anciennement Olympiades des Métiers), la plus grande compétition de métiers au monde.
 
