@@ -1,5 +1,7 @@
+---
 hide:
   - navigation
+---
 
 <img src="images/profil.jpg" alt="Photo de profil" width="220" style="float: left; margin-right: 30px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
