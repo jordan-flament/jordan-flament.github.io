@@ -5,6 +5,7 @@ theme:
   favicon: images/france.webp
   features:
     - navigation.top
+    - toc.integrate
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
