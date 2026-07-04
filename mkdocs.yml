@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.top
     - toc.integrate
+    - navigation.expand
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
@@ -27,3 +28,6 @@ theme:
 
 extra_javascript:
   - javascripts/effet.js
+
+nav:
+  - Menu: index.md
