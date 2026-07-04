@@ -8,6 +8,8 @@ Je suis Jordan Flament, Ingénieur en génie électrique et mécatronique en for
 
 <div style="clear: both;"></div>
 
+<a href="https://compagnons-du-devoir.com/les-metiers/electrotechnique/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site des compagnons du devoir et du tour de France - Métier d'électrotechnicien ↗</a>
+
 ---
 
 ## Mon parcours
