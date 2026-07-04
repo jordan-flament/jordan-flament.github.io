@@ -165,6 +165,7 @@ En 2022, j'ai fait le choix de repousser mes limites en participant aux **WorldS
 
 Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette aventure m'a demandé un investissement total et m'a permis de franchir plusieurs étapes décisives :
 
+
 * **🥇 Médaille d'Or - Région Hauts-de-France :** Cette première victoire m'a permis de me qualifier directement pour les épreuves nationales.
 * **🥉 Médaille de Bronze - Finales Nationales :** Une place sur le podium qui m'a ouvert les portes des sélections très exigeantes de l'Équipe de France.
 * **<img src="images/france.webp" alt="Drapeau Français" style="height: 18px; vertical-align: middle; margin-right: 5px; border-radius: 2px;"> Sélection en Équipe de France :** À l'issue d'une épreuve de départage intense entre les trois médaillés nationaux, j'ai décroché ma qualification pour représenter le pays à l'international.
