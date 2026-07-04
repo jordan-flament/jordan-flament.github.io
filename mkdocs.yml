@@ -2,6 +2,9 @@ site_name: Portfolio de Jordan Flament
 theme:
   logo: images/france.webp
   favicon: images/france.webp
+  features:
+    - toc.integrate       # Transforme les chapitres de la page en menu de navigation
+    - navigation.top      # Ajoute un petit bouton "Retour en haut" très pratique !
   name: material
   palette:
     # Mode clair
@@ -21,11 +24,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Passer en mode clair
-
-nav:
-  - Accueil: index.md
-  - Mon Parcours: parcours.md
-  - Mes Projets: projets.md
 
 extra_javascript:
   - javascripts/effet.js
