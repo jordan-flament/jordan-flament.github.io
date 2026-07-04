@@ -10,13 +10,13 @@ Je suis Jordan Flament, Ingénieur en génie électrique et mécatronique en for
 
 ---
 
-# Mon parcours
+## Mon parcours
 
-## Les Compagnons du Devoir et du Tour de France
+### Les Compagnons du Devoir et du Tour de France
 
 Après avoir réalisé 3 années à préparer mon bac chez les Compagnons du Devoir et du Tour de France, je me suis lancé sur le Tour de France qui m'a permis de travailler aux quatre coins de la France dans de nombreuses entreprises de secteurs différents. J'ai pu me découvrir une passion particulière pour l'industrie, en particulier l'électricité et l'automatisme.
 
-## Mon Parcours en Alternance
+### Mon Parcours en Alternance
 
 Voici l'évolution en parallèle de ma formation théorique et de mon expérience concrète en entreprise depuis la sortie du collège.
 
@@ -155,9 +155,9 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 
 ---
 
-# Worldskills
+## Worldskills
 
 ---
 
-# Mes projets
+## Mes projets
 
