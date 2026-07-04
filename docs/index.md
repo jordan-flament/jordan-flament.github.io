@@ -165,6 +165,7 @@ En 2022, j'ai fait le choix de repousser mes limites en participant aux **WorldS
 
 Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette aventure m'a demandé un investissement total et m'a permis de franchir plusieurs étapes décisives :
 
+<div style="clear: both;"></div>
 
 * **🥇 Médaille d'Or - Région Hauts-de-France :** Cette première victoire m'a permis de me qualifier directement pour les épreuves nationales.
 * **🥉 Médaille de Bronze - Finales Nationales :** Une place sur le podium qui m'a ouvert les portes des sélections très exigeantes de l'Équipe de France.
@@ -174,8 +175,6 @@ Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette 
 <br>
 <a href="https://www.worldskills-france.org/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site de Worldskills France ↗</a><br>
 <a href="https://www.worldskills-france.org/metiers/electrotechnique-et-automatisme-industriel/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site de Worldskills France du métier électrotechnique et automatisme industriel ↗</a>
-
-<div style="clear: both;"></div>
 
 ### Ma réalisation (Mondial Lyon 2024)
 
