@@ -182,7 +182,7 @@ Voici un aperçu de mon travail lors de cette épreuve internationale.
 
 <div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" title="INDUSTRIAL CONTROL / Controle industriel">
-    <img src="https://live.staticflickr.com/65535/53971044524_2b4c88b3d0_w.jpg" width="200" alt="INDUSTRIAL CONTROL / Controle industriel">
+    <img src="https://live.staticflickr.com/65535/53971044524_2b4c88b3d0_w.jpg" width="300" alt="INDUSTRIAL CONTROL / Controle industriel">
   </a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
