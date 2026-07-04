@@ -178,6 +178,12 @@ Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette 
 
 ### Ma réalisation (Mondial Lyon 2024)
 
+L'épreuve consiste à réaliser sur 4 jours : 
+* Une installation électrique complète en 12h
+* La programmation sous TIA portal de tous les composants en 6h
+* La création d'un schéma électrique sous FluidSim en 1h
+* Trouver 5 pannes en 1h
+
 Voici un aperçu de mon travail lors de cette épreuve internationale.
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
