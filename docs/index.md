@@ -178,18 +178,17 @@ Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette 
 
 ### Ma réalisation (Mondial Lyon 2024)
 
-Voici un aperçu de mon travail lors de cette épreuve internationale. 
+Voici un aperçu de mon travail lors de cette épreuve internationale.
 
 <div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
-  
-  <!-- COLLES VOTRE CODE FLICKR JUSTE EN DESSOUS DE CETTE LIGNE -->
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" title="INDUSTRIAL CONTROL / Contrôle industriel"><img src="https://live.staticflickr.com/65535/53971044524_2b4c88b3d0_w.jpg" width="1600" height="1200" alt="INDUSTRIAL CONTROL / Contrôle industriel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <!-- FIN DU CODE FLICKR -->
-
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" title="INDUSTRIAL CONTROL / Controle industriel">
+    <img src="https://live.staticflickr.com/65535/53971044524_2b4c88b3d0_w.jpg" width="200" alt="INDUSTRIAL CONTROL / Controle industriel">
+  </a>
+  <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <a href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698/" target="_blank" style="background-color: #4099ff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📸 Voir l'album complet sur Flickr ↗</a>
+  <a href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" target="_blank" style="background-color: #4099ff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Voir l'album complet sur Flickr ↗</a>
 </div>
 
 
