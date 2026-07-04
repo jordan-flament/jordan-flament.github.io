@@ -4,7 +4,7 @@ theme:
   logo: images/france.webp
   favicon: images/france.webp
   features:
-    - navigation.top      # Ajoute un petit bouton "Retour en haut" tres pratique !
+    - navigation.top
   palette:
     # Mode clair
     - media: "(prefers-color-scheme: light)"
