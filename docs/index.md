@@ -159,7 +159,21 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 
 ## Worldskills
 
----
+<img src="images/worldskills.png" alt="Logo WorldSkills" width="120" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-## Mes projets
+En 2022, j'ai fait le choix de repousser mes limites en participant aux **WorldSkills** (anciennement Olympiades des Métiers), la plus grande compétition de métiers au monde.
+
+Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette aventure m'a demandé un investissement total et m'a permis de franchir plusieurs étapes décisives :
+
+* **🥇 Médaille d'Or - Région Hauts-de-France :** Cette première victoire m'a permis de me qualifier directement pour les épreuves nationales.
+* **🥉 Médaille de Bronze - Finales Nationales :** Une place sur le podium qui m'a ouvert les portes des sélections très exigeantes de l'Équipe de France.
+* **🇫🇷 Sélection en Équipe de France :** À l'issue d'une épreuve de départage intense entre les trois médaillés nationaux, j'ai décroché ma qualification pour représenter le pays à l'international.
+* **🌍 12ème place Mondiale - Lyon 2024 :** L'aboutissement de ce parcours d'excellence, en affrontant les meilleurs talents de la planète lors de la compétition mondiale.
+
+<br>
+<a href="https://www.worldskills-france.org/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site de Worldskills France ↗</a><br>
+<a href="https://www.worldskills-france.org/metiers/electrotechnique-et-automatisme-industriel/" target="_blank" style="color: #4099ff; font-weight: bold; text-decoration: none;">Visitez le site de Worldskills France du métier électrotechnique et automatisme industriel ↗</a>
+
+<div style="clear: both;"></div>
+
 
