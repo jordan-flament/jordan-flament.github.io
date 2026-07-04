@@ -180,15 +180,23 @@ Engagé dans la catégorie *Électrotechnique et Automatisme Industriel*, cette 
 
 Voici un aperçu de mon travail lors de cette épreuve internationale.
 
-<div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" title="INDUSTRIAL CONTROL / Controle industriel">
-    <img src="https://live.staticflickr.com/65535/53971044524_2b4c88b3d0_w.jpg" width="300" alt="INDUSTRIAL CONTROL / Controle industriel">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+  
+  <!-- Image 1 -->
+  <a href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" target="_blank" style="flex: 1; min-width: 300px;">
+    <img src="images/photo1.jpg" alt="Photo 1" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
-  <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+  <!-- Image 2 -->
+  <a href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" target="_blank" style="flex: 1; min-width: 300px;">
+    <img src="images/photo3.jpg" alt="Photo 2" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
+
 </div>
 
 <div style="text-align: center; margin-bottom: 30px;">
   <a href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" target="_blank" style="background-color: #4099ff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Voir l'album complet sur Flickr ↗</a>
+</div>
 </div>
 
 
