@@ -10,7 +10,7 @@ Ce projet a été géré avec le matériel suivant :
 
 Voici un aperçu 3D de la ligne :
 
-<img src="images/LigneYacco.png" alt="3D de la ligne" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/LigneYacco.png" alt="3D de la ligne" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 La suite est en développement, soyez patient !
 
