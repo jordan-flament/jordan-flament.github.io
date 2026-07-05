@@ -34,7 +34,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     
     <ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2025 - En cours</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2025 - En cours</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Diplôme d'ingénieur en génie électrique et mécatronique</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/polytech.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Polytech'Lille
@@ -42,7 +42,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">59655 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2024 - 08/2025</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2024 - 08/2025</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Licence pro Systèmes Automatisés, Réseaux et Informatique Industriel</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/promeo.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Proméo Formation
@@ -51,7 +51,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">80080 - Amiens</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2022 - 08/2024</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2022 - 08/2024</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">BTS électrotechnique</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -59,7 +59,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">37100 - Tours</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2022 - 08/2023</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2022 - 08/2023</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Titre pro Technicien Supérieur en Maintenance Industrielle</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -67,7 +67,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">37100 - Tours</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2021 - 08/2022</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2021 - 08/2022</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Titre pro Technicien en Maintenance Industrielle</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -75,7 +75,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">59491 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2018 - 08/2021</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2018 - 08/2021</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Bac Pro Métier de l'Electricité et de ses Environnements Connectés</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -84,7 +84,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">59491 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2018 - 08/2020</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#8203;2018 - 08/2020</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">BEP Electrotechnique</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
