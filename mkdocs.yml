@@ -30,7 +30,10 @@ extra_javascript:
   - javascripts/effet.js
 
 nav:
-  - Menu: index.md
+  - Accueil: index.md
+  - Machine de Tri: projetYacco.md
+  - Armoire Électrique: projetKingspan.md
+
 
 extra:
   analytics:
