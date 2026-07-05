@@ -26,7 +26,6 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 
 <div style="display: flex; gap: 25px; flex-wrap: wrap; margin-top: 30px; margin-bottom: 30px;">
 
-  <!-- COLONNE ÉCOLE -->
   <div style="flex: 1; min-width: 300px; background: rgba(64, 153, 255, 0.05); padding: 25px; border-radius: 8px; border-left: 4px solid #4099ff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #4099ff; display: flex; align-items: center; gap: 10px;">
       🎓 Formation (École)
@@ -95,8 +94,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     </ul>
   </div>
 
-  <!-- COLONNE ENTREPRISE -->
- <div style="flex: 1; min-width: 300px; background: rgba(0, 200, 83, 0.05); padding: 25px; border-radius: 8px; border-left: 4px solid #00c853; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div style="flex: 1; min-width: 300px; background: rgba(0, 200, 83, 0.05); padding: 25px; border-radius: 8px; border-left: 4px solid #00c853; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #00c853; display: flex; align-items: center; gap: 10px;">
       🏢 Expérience (Entreprise)
     </h3>
@@ -150,6 +148,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
       </li>        
     </ul>
   </div>
+
 </div>
 
 <div style="text-align: center; margin-top: 40px;">
