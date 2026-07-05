@@ -213,7 +213,7 @@ Suite à mon parcours en tant que compétiteur, me voici de l'autre côté de la
 
 ### Mon engagement en tant que bénévole dans l'équipe métier en électrotechnique et automatisme industriel.
 
-En plus de ma mission d'*expert référent téritorial*, je participe au développement du métier ainsi qu'à l'organisation des compétiton et des entraînements comme :
+En plus de ma mission d'*expert référent téritorial*, je participe au développement du métier ainsi qu'à l'organisation des compétitons et des entraînements comme :
 
 * Accompagner le candidat représentant la France durant sa préparation sur les aspects technique de la compétition comme la programmation ou la création de schéma électrique.
 * Développer des sujets de compétiton au niveau régionale et nationale.
