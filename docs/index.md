@@ -215,9 +215,30 @@ Suite à mon parcours en tant que compétiteur, me voici de l'autre côté de la
 
 En plus de ma mission d'**expert référent téritorial**, je participe au développement du métier ainsi qu'à l'organisation des compétitons et des entraînements comme :
 
-* Accompagner le candidat représentant la France durant sa préparation sur les aspects technique de la compétition comme la programmation ou la création de schéma électrique.
+* Accompagner le candidat représentant la France durant sa préparation sur les aspects techniques de la compétition comme la programmation ou la création de schémas électrique.
 * Développer des sujets de compétiton au niveau régionale et nationale.
-* Développer des supports de formation pour permettre aux candidats de booster leur progression et d'acquérir un maximum de compétences en peu de temps.
+* Développer des supports de formation pour permettre aux candidats de booster leur progression et d'acquérir un maximum de compétences.
 
+## 🚀 Mes Projets
 
+Voici quelques-uns des projets techniques sur lesquels j'ai travaillé. Cliquez sur une carte pour voir les détails et les photos !
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
+
+  <a href="projetYacco.md" style="flex: 1; min-width: 200px; max-width: 250px; text-decoration: none;">
+    <div style="background: rgba(64, 153, 255, 0.05); border: 1px solid rgba(64, 153, 255, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%; transition: transform 0.2s;">
+      <div style="font-size: 40px; margin-bottom: 15px;">🤖</div>
+      <h3 style="margin: 0; color: #4099ff; font-size: 1.2em;">Convoyage d'une ligne d'embouteillage</h3>
+      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Automatisation du convoyage d'une ligne d'embouteillage</p>
+    </div>
+  </a>
+
+  <a href="projetKingspan.md" style="flex: 1; min-width: 200px; max-width: 250px; text-decoration: none;">
+    <div style="background: rgba(0, 200, 83, 0.05); border: 1px solid rgba(0, 200, 83, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%;">
+      <div style="font-size: 40px; margin-bottom: 15px;">⚡</div>
+      <h3 style="margin: 0; color: #00c853; font-size: 1.2em;">Retrofit Safety d'un stacker</h3>
+      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Etude électrique et intégration d'un automate safety</p>
+    </div>
+  </a>
+
+</div>
