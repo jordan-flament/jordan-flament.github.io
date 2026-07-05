@@ -229,7 +229,7 @@ Voici quelques-uns des projets techniques sur lesquels j'ai travaillé. Cliquez 
     <div style="background: rgba(64, 153, 255, 0.05); border: 1px solid rgba(64, 153, 255, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%; transition: transform 0.2s;">
       <div style="font-size: 40px; margin-bottom: 15px;">🤖</div>
       <h3 style="margin: 0; color: #4099ff; font-size: 1.2em;">Convoyage d'une ligne d'embouteillage</h3>
-      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Automatisation du convoyage d'une ligne d'embouteillage</p>
+      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Etude et développement du programme et de la supervision</p>
     </div>
   </a>
 
