@@ -103,12 +103,12 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     <ul style="list-style: none; padding-left: 0; margin-bottom: 0;">
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#8203;2024 - En cours</span>
-        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Automaticien</span>
+        <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Ingénieur Automaticien</span>
         <span style="font-style: italic; opacity: 0.9;">
           <img src="../images/pouchain.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Pouchain SAS
         </span><br>
         <span style="font-style: normal; font-size: 0.9em; opacity: 0.9;">59553 - Cuincy</span>
-        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates :<br>• TIA Portal, Step 7, PCS7<br>• EcoStructure, Unity pro, PL7-pro <br> • PcVue <br> • PnozMultiConfigurator </small>
+        <small style="display: block; margin-top: 5px; opacity: 0.8;">• Programmation d'automates <br>• Réalisation de supervisions <br>• TIA Portal, Step 7, PCS7<br>• EcoStructure, Unity pro, PL7-pro <br> • PcVue <br> • PnozMultiConfigurator <br>• Windowserie <br>• Réseaux <br>• Réalisation de schémas électrique (See-Electrical Expert) </small>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(128,128,128,0.2); padding-bottom: 15px;">
         <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#8203;2023 - 08/&#8203;2024</span>
@@ -213,7 +213,7 @@ Suite à mon parcours en tant que compétiteur, me voici de l'autre côté de la
 
 ### Mon engagement en tant que bénévole dans l'équipe métier en électrotechnique et automatisme industriel.
 
-En plus de ma mission d'*expert référent téritorial*, je participe au développement du métier ainsi qu'à l'organisation des compétitons et des entraînements comme :
+En plus de ma mission d'**expert référent téritorial**, je participe au développement du métier ainsi qu'à l'organisation des compétitons et des entraînements comme :
 
 * Accompagner le candidat représentant la France durant sa préparation sur les aspects technique de la compétition comme la programmation ou la création de schéma électrique.
 * Développer des sujets de compétiton au niveau régionale et nationale.
