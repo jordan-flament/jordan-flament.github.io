@@ -202,6 +202,11 @@ Voici un aperçu de mon travail lors de cette épreuve internationale :
   <a href="https://www.flickr.com/photos/worldskillsfrance/albums/72177720320070698" target="_blank" style="background-color: #4099ff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Voir l'album complet sur Flickr ↗</a>
 </div>
 
+### Mon engagement en tant qu'Expert Référent Territorial (ERT)
+
+Suite à mon parcours en tant que compétiteur, me voici de l'autre côté de la barrière à jouer un rôle majeur dans le développement du métier de **l'électrotechnique et automatisme industriel** en endossant le rôle d'**expert référent territorial** qui consiste à : 
+
+* 
 
 
 

@@ -31,3 +31,8 @@ extra_javascript:
 
 nav:
   - Menu: index.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-06NNT8QSN9
