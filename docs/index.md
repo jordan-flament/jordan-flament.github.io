@@ -205,7 +205,19 @@ Voici un aperçu de mon travail lors de cette épreuve internationale :
 
 Suite à mon parcours en tant que compétiteur, me voici de l'autre côté de la barrière à jouer un rôle majeur dans le développement du métier de **l'électrotechnique et automatisme industriel** en endossant le rôle d'**expert référent territorial** qui consiste à : 
 
-* 
+* Création de sujets de compétitions régionales en tronc commun pour toutes les régions.
+* Effectuer le suivi des épreuves régionales.
+* Accompagner chaque région sur l’utilisation du sujet, des règles ainsi que du CIS (ce qui permet la notation des candidats).
+* Contribution de manière générale au développement du métier de l'échelle régionale à l'échelle nationale.
+* Gérer l'organisation des compétitons régionales avec l'aide des régions, aussi bien organisationnel que matériel.
+
+### Mon engagement en tant que bénévole dans l'équipe métier en électrotechnique et automatisme industriel.
+
+En plus de ma mission d'*expert référent téritorial*, je participe au développement du métier ainsi qu'à l'organisation des compétiton et des entraînements comme :
+
+* Accompagner le candidat représentant la France durant sa préparation sur les aspects technique de la compétition comme la programmation ou la création de schéma électrique.
+* Développer des sujets de compétiton au niveau régionale et nationale.
+* Développer des supports de formation pour permettre aux candidats de booster leur progression et d'acquérir un maximum de compétences en peu de temps.
 
 
 
