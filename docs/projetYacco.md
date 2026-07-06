@@ -2,6 +2,13 @@
 
 Le but de ce projet est de réaliser la gestion du convoyage entre les différentes machines de la ligne, et gérer les échanges d'informations entre l'automate et les machines.
 
+Il a été développé en 6 jours au total comprenant :
+
+ * 1 jour de réalisation de l'analyse fonctionnelle
+ * 3 jours de développement du programme et de l'IHM
+ * 1 jour d'essais
+ * 1 jour de mise en service chez le client
+
 Ce projet a été géré avec le matériel suivant :
 
 * Un automate S7-1200 de chez Siemens

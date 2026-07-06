@@ -158,6 +158,32 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
 
 ---
 
+## 🚀 Mes Projets
+
+Voici quelques-uns des projets sur lesquels j'ai travaillé. Cliquez sur une carte pour voir les détails et les photos !
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
+
+  <a href="projetYacco/" style="flex: 1; min-width: 200px; max-width: 250px; text-decoration: none;">
+    <div style="background: rgba(64, 153, 255, 0.05); border: 1px solid rgba(64, 153, 255, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%; transition: transform 0.2s;">
+      <div style="font-size: 40px; margin-bottom: 15px;">🤖</div>
+      <h3 style="margin: 0; color: #4099ff; font-size: 1.2em;">Convoyage d'une ligne d'embouteillage</h3>
+      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Etude et développement du programme et de la supervision</p>
+    </div>
+  </a>
+
+  <a href="projetKingspan/" style="flex: 1; min-width: 200px; max-width: 250px; text-decoration: none;">
+    <div style="background: rgba(0, 200, 83, 0.05); border: 1px solid rgba(0, 200, 83, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%;">
+      <div style="font-size: 40px; margin-bottom: 15px;">⚡</div>
+      <h3 style="margin: 0; color: #00c853; font-size: 1.2em;">Retrofit Safety d'un stacker</h3>
+      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Etude électrique et intégration d'un automate safety</p>
+    </div>
+  </a>
+
+</div>
+
+---
+
 ## Worldskills
 
 <img src="images/worldskills.png" alt="Logo WorldSkills" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -218,30 +244,6 @@ En plus de ma mission d'**expert référent téritorial**, je participe au déve
 * Accompagner le candidat représentant la France durant sa préparation sur les aspects techniques de la compétition comme la programmation ou la création de schémas électrique.
 * Développer des sujets de compétiton au niveau régionale et nationale.
 * Développer des supports de formation pour permettre aux candidats de booster leur progression et d'acquérir un maximum de compétences.
-
-## 🚀 Mes Projets
-
-Voici quelques-uns des projets sur lesquels j'ai travaillé. Cliquez sur une carte pour voir les détails et les photos !
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
-
-  <a href="projetYacco/" style="flex: 1; min-width: 200px; max-width: 250px; text-decoration: none;">
-    <div style="background: rgba(64, 153, 255, 0.05); border: 1px solid rgba(64, 153, 255, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%; transition: transform 0.2s;">
-      <div style="font-size: 40px; margin-bottom: 15px;">🤖</div>
-      <h3 style="margin: 0; color: #4099ff; font-size: 1.2em;">Convoyage d'une ligne d'embouteillage</h3>
-      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Etude et développement du programme et de la supervision</p>
-    </div>
-  </a>
-
-  <a href="projetKingspan/" style="flex: 1; min-width: 200px; max-width: 250px; text-decoration: none;">
-    <div style="background: rgba(0, 200, 83, 0.05); border: 1px solid rgba(0, 200, 83, 0.2); border-radius: 10px; padding: 25px 15px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 100%;">
-      <div style="font-size: 40px; margin-bottom: 15px;">⚡</div>
-      <h3 style="margin: 0; color: #00c853; font-size: 1.2em;">Retrofit Safety d'un stacker</h3>
-      <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8; margin-bottom: 0; color: inherit;">Etude électrique et intégration d'un automate safety</p>
-    </div>
-  </a>
-
-</div>
 
 <!-- BOUTON CV FLOTTANT -->
 <a href="/images/CV.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
