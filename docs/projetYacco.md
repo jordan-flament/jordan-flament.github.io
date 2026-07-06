@@ -1,3 +1,5 @@
+<!--
+
 # 🤖Réalisation de la partie convoyage d'une ligne d'embouteillage de bidon d'huile
 
 Le but de ce projet est de réaliser la gestion du convoyage entre les différentes machines de la ligne, et gérer les échanges d'informations entre l'automate et les machines.
@@ -55,3 +57,77 @@ La ligne est entièrement configurable grâce à l'*Interface Homme-Machine*, co
 </div>
 
 [Retour à l'accueil](index.md)
+
+-->
+
+# 🤖 Convoyage d'une ligne d'embouteillage de bidons d'huile
+
+<div style="background: rgba(64, 153, 255, 0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #4099ff; margin-bottom: 30px;">
+  <strong>🎯 Objectif du projet :</strong> Assurer la gestion globale du convoyage entre les différentes machines de la ligne et piloter les échanges d'informations entre l'automate central et les équipements.
+</div>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="flex: 1; min-width: 250px; background: rgba(0, 0, 0, 0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0; color: #333; font-size: 1.1em;">⏱️ Déroulement (6 Jours)</h3>
+    <ul style="margin-bottom: 0; padding-left: 20px;">
+      <li style="margin-bottom: 5px;"><strong>1 jour :</strong> Analyse fonctionnelle</li>
+      <li style="margin-bottom: 5px;"><strong>3 jours :</strong> Développement (Prog & IHM)</li>
+      <li style="margin-bottom: 5px;"><strong>1 jour :</strong> Essais en atelier</li>
+      <li style="margin-bottom: 0;"><strong>1 jour :</strong> Mise en service chez le client</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; background: rgba(0, 0, 0, 0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0; color: #333; font-size: 1.1em;">🛠️ Matériel Utilisé</h3>
+    <ul style="margin-bottom: 0; padding-left: 20px;">
+      <li style="margin-bottom: 5px;">Automate <strong>Siemens S7-1200</strong></li>
+      <li style="margin-bottom: 5px;">Écran <strong>IHM Unified Siemens</strong></li>
+      <li style="margin-bottom: 5px;">3x Variateurs <strong>Schneider ATV-320</strong></li>
+      <li style="margin-bottom: 0;"><em>Réseau industriel Profinet</em></li>
+    </ul>
+  </div>
+</div>
+
+### ⚙️ Le processus de production
+
+Pour bien comprendre le rôle des convoyeurs, voici le parcours précis d'un bidon d'huile tout au long de cette ligne :
+
+1. **💧 Le remplissage :** Le cycle débute par la remplisseuse, qui dose et injecte l'huile dans les bidons vides en entrée de ligne.
+2. **🔥 Le thermoscellage :** Les bidons passent ensuite dans une thermocelleuse. Cette machine chauffe et dépose une opercule pour garantir la parfaite étanchéité du produit.
+3. **🏷️ L'étiquetage :** Arrivée dans l'étiqueteuse, où l'habillage visuel du bidon et les codes-barres de traçabilité sont appliqués.
+4. **📦 L'encaissage :** Enfin, la ligne s'achève par une encaisseuse qui regroupe et range proprement les bidons dans des cartons, prêts pour la zone de stockage.
+
+<div style="text-align: center; margin: 40px 0;">
+  <img src="../images/LigneYacco.png" alt="Aperçu 3D de la ligne" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <p style="margin-top: 10px; font-style: italic; opacity: 0.8; font-size: 0.9em;">Aperçu 3D de la ligne complète</p>
+</div>
+
+<div style="background: rgba(0, 200, 83, 0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #00c853; margin-bottom: 40px;">
+  <h3 style="margin-top: 0; color: #00c853; font-size: 1.2em;">🛡️ Sécurité, Diagnostic & Supervision</h3>
+  <p style="margin-bottom: 15px;">Sur ce projet, nous gérons tous les aléas possibles (défaut moteur, bourrages suite à l'arrêt d'une machine, etc.). Pour dépanner au plus vite, chaque anomalie remonte sous forme d'alarme sur l'IHM, permettant un <strong>diagnostic immédiat</strong>.</p>
+  <p style="margin-bottom: 10px;">La ligne est entièrement configurable depuis l'Interface Homme-Machine :</p>
+  <ul style="margin-bottom: 0; padding-left: 20px;">
+    <li>Aide à la mise en service</li>
+    <li>Changement de modes (Manuel / Automatique)</li>
+    <li>Réglage de la vitesse des convoyeurs</li>
+    <li>Acquittement et diagnostic matériel</li>
+    <li>Visualisation du process en temps réel</li>
+  </ul>
+</div>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="../images/yacco/armoire.jpg" alt="Armoire électrique" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; opacity: 0.8; font-size: 0.9em;">L'armoire électrique</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="../images/yacco/ihm.jpg" alt="IHM Unified" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; opacity: 0.8; font-size: 0.9em;">Interface Homme-Machine (IHM)</p>
+  </div>
+</div>
+
+<div style="text-align: center; margin-top: 50px; margin-bottom: 30px;">
+  <a href="../" style="background-color: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); color: inherit; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold; transition: 0.3s;">
+    ⬅️ Retour au Portfolio
+  </a>
+</div>
