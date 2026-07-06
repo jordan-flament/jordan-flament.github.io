@@ -244,6 +244,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé. Cliquez sur une car
 </div>
 
 <!-- BOUTON CV FLOTTANT -->
-<a href="CV_Jordan_Flament.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+<a href="/images/CV_Jordan_Flament.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
   📄 Télécharger mon CV
 </a>
