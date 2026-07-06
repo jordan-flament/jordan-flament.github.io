@@ -6,7 +6,7 @@ Ce projet a été géré avec le matériel suivant :
 
 * Un automate S7-1200 de chez Siemens
 * Une Interface Homme-Machine (IHM) unified de chez Siemens
-* 3 ATV-320 de chez Schneider pilotés en Profinet par l'automate
+* 3 variateurs de vitesse ATV-320 de chez Schneider pilotés en Profinet par l'automate
 
 Voici un aperçu 3D de la ligne :
 

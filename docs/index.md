@@ -2,6 +2,12 @@
 
 # Bienvenue sur mon Portfolio
 
+<div style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
+  <a href="images/CV_Jordan_Flament.pdf" target="_blank" style="background-color: #4099ff; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: inline-block;">
+    📄 Télécharger mon CV au format PDF
+  </a>
+</div>
+
 Je suis Jordan Flament, Ingénieur en génie électrique et mécatronique en formation, passionné par l'optimisation des systèmes industriels en particulier l'automatisme.
 
 À travers ce site, je vous invite à découvrir mon parcours professionnel ainsi que les différents projets techniques sur lesquels j'ai eu l'opportunité de travailler.
@@ -221,7 +227,7 @@ En plus de ma mission d'**expert référent téritorial**, je participe au déve
 
 ## 🚀 Mes Projets
 
-Voici quelques-uns des projets techniques sur lesquels j'ai travaillé. Cliquez sur une carte pour voir les détails et les photos !
+Voici quelques-uns des projets sur lesquels j'ai travaillé. Cliquez sur une carte pour voir les détails et les photos !
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 20px; margin-bottom: 40px;">
 
