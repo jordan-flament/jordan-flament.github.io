@@ -15,6 +15,15 @@ Ce projet a été géré avec le matériel suivant :
 * Une *Interface Homme-Machine* (IHM) unified de chez Siemens
 * 3 variateurs de vitesse ATV-320 de chez Schneider pilotés en Profinet par l'automate
 
+### ⚙️ Le processus de production
+
+Pour bien comprendre le rôle des convoyeurs, voici le parcours précis d'un bidon d'huile tout au long de cette ligne :
+
+1. **💧 Le remplissage :** Le cycle débute par la remplisseuse, qui dose et injecte l'huile dans les bidons vides en entrée de ligne.
+2. **🔥 Le thermoscellage :** Les bidons passent ensuite dans une thermocelleuse. Cette machine chauffe et dépose une opercule pour garantir la parfaite étanchéité du produit.
+3. **🏷️ L'étiquetage :** Arrivée dans l'étiqueteuse, où l'habillage visuel du bidon et les codes-barres de traçabilité sont appliqués.
+4. **📦 L'encaissage :** Enfin, la ligne s'achève par une encaisseuse qui regroupe et range proprement les bidons dans des cartons, prêts pour la zone de stockage.
+
 Voici un aperçu 3D de la ligne :
 
 <img src="../images/LigneYacco.png" alt="3D de la ligne" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
