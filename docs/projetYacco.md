@@ -68,7 +68,7 @@ La ligne est entièrement configurable grâce à l'*Interface Homme-Machine*, co
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <div style="flex: 1; min-width: 250px; background: rgba(0, 0, 0, 0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.05);">
-    <h3 style="margin-top: 0; color: #333; font-size: 1.1em;">⏱️ Déroulement (6 Jours)</h3>
+    <h3 style="margin-top: 0; color: rgba(20, 96, 210, 0.97); font-size: 1.1em;">⏱️ Déroulement (6 Jours)</h3>
     <ul style="margin-bottom: 0; padding-left: 20px;">
       <li style="margin-bottom: 5px;"><strong>1 jour :</strong> Analyse fonctionnelle</li>
       <li style="margin-bottom: 5px;"><strong>3 jours :</strong> Développement (Prog & IHM)</li>
@@ -78,7 +78,7 @@ La ligne est entièrement configurable grâce à l'*Interface Homme-Machine*, co
   </div>
 
   <div style="flex: 1; min-width: 250px; background: rgba(0, 0, 0, 0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.05);">
-    <h3 style="margin-top: 0; color: #333; font-size: 1.1em;">🛠️ Matériel Utilisé</h3>
+    <h3 style="margin-top: 0; color: rgba(20, 96, 210, 0.97); font-size: 1.1em;">🛠️ Matériel Utilisé</h3>
     <ul style="margin-bottom: 0; padding-left: 20px;">
       <li style="margin-bottom: 5px;">Automate <strong>Siemens S7-1200</strong></li>
       <li style="margin-bottom: 5px;">Écran <strong>IHM Unified Siemens</strong></li>
