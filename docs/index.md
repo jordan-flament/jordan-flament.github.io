@@ -265,6 +265,60 @@ En plus de ma mission d'**expert référent téritorial**, je participe au déve
 
 ---
 
+## 🛠️ Mes Compétences Techniques
+
+<p style="font-size: 1.05em; color: #ced4da; margin-bottom: 25px;">Un aperçu des logiciels, matériels et technologies que j'utilise et configure au quotidien dans le monde industriel :</p>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+
+  <!-- AUTOMATISME -->
+  <div style="flex: 1; min-width: 280px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #ffffff; font-size: 1.2em; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px;">🤖 Automatisme</h3>
+    <div style="margin-top: 15px;">
+      <span style="display: inline-block; background: rgba(64,153,255,0.15); color: #4099ff; border: 1px solid rgba(64,153,255,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">TIA Portal</span>
+      <span style="display: inline-block; background: rgba(64,153,255,0.15); color: #4099ff; border: 1px solid rgba(64,153,255,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Step 7 / PCS7</span>
+      <span style="display: inline-block; background: rgba(0,200,83,0.15); color: #00c853; border: 1px solid rgba(0,200,83,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">EcoStruxure</span>
+      <span style="display: inline-block; background: rgba(0,200,83,0.15); color: #00c853; border: 1px solid rgba(0,200,83,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Unity Pro / PL7-pro</span>
+    </div>
+  </div>
+
+  <!-- ETUDE ELECTRIQUE -->
+  <div style="flex: 1; min-width: 280px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #ffffff; font-size: 1.2em; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px;">⚡ Étude Électrique</h3>
+    <div style="margin-top: 15px;">
+      <span style="display: inline-block; background: rgba(255,153,0,0.15); color: #ff9900; border: 1px solid rgba(255,153,0,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">See-Electrical Expert</span>
+      <span style="display: inline-block; background: rgba(255,153,0,0.15); color: #ff9900; border: 1px solid rgba(255,153,0,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">E-plan</span>
+      <span style="display: inline-block; background: rgba(255,153,0,0.15); color: #ff9900; border: 1px solid rgba(255,153,0,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">FluidSim</span>
+      <span style="display: inline-block; background: rgba(255,153,0,0.15); color: #ff9900; border: 1px solid rgba(255,153,0,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Lecture & Création de schémas</span>
+    </div>
+  </div>
+
+  <!-- SUPERVISION & SECURITE -->
+  <div style="flex: 1; min-width: 280px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #ffffff; font-size: 1.2em; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px;">🖥️ Supervision & Sécurité</h3>
+    <div style="margin-top: 15px;">
+      <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">PcVue</span>
+      <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">PnozMultiConfigurator</span>
+      <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Windowserie</span>
+      <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Réseaux Industriels</span>
+    </div>
+  </div>
+
+  <!-- TERRAIN & MAINTENANCE -->
+  <div style="flex: 1; min-width: 280px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #ffffff; font-size: 1.2em; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px;">🔧 Terrain & Maintenance</h3>
+    <div style="margin-top: 15px;">
+      <span style="display: inline-block; background: rgba(231,76,60,0.15); color: #f1948a; border: 1px solid rgba(231,76,60,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Câblage d'armoires</span>
+      <span style="display: inline-block; background: rgba(231,76,60,0.15); color: #f1948a; border: 1px solid rgba(231,76,60,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Mécanique</span>
+      <span style="display: inline-block; background: rgba(231,76,60,0.15); color: #f1948a; border: 1px solid rgba(231,76,60,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Pneumatique / Hydraulique</span>
+      <span style="display: inline-block; background: rgba(231,76,60,0.15); color: #f1948a; border: 1px solid rgba(231,76,60,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Recherche de pannes</span>
+    </div>
+  </div>
+
+</div>
+
+---
+
 ## 🧭 Mon parcours
 
 <div style="display: flex; align-items: flex-start; gap: 20px; padding: 25px; background: rgba(255, 153, 0, 0.08); border-left: 4px solid #ff9900; border-radius: 8px; margin-bottom: 40px; flex-wrap: wrap;">
