@@ -539,6 +539,32 @@ L'épreuve est un véritable marathon technique qui consiste à réaliser sur 4 
   </div>
 </div>
 
+---
+
+## 📬 Me contacter
+
+<p style="font-size: 1.1em; color: #e9ecef; margin-bottom: 30px; line-height: 1.6;">
+  Mon profil vous intéresse ? Vous avez une question sur l'un de mes projets ou vous souhaitez échanger sur des opportunités dans l'automatisme et la mécatronique ? N'hésitez pas à me contacter directement sur la plateforme de votre choix !
+</p>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 50px;">
+  
+  <!-- EMAIL -->
+  <a href="mailto:flamentjordan060803@gmail.com" style="flex: 1; min-width: 250px; background: rgba(64, 153, 255, 0.05); border: 1px solid rgba(64, 153, 255, 0.2); padding: 25px 20px; border-radius: 10px; text-align: center; text-decoration: none; color: #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
+    <div style="font-size: 40px; margin-bottom: 15px;">📧</div>
+    <h3 style="margin: 0; color: #4099ff; font-size: 1.2em;">Par Email</h3>
+    <p style="margin-top: 10px; font-size: 0.9em; color: #ced4da; margin-bottom: 0;">M'envoyer un message</p>
+  </a>
+
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/jordan-flament-6247b41b6" target="_blank" style="flex: 1; min-width: 250px; background: rgba(10, 102, 194, 0.05); border: 1px solid rgba(10, 102, 194, 0.3); padding: 25px 20px; border-radius: 10px; text-align: center; text-decoration: none; color: #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
+    <div style="font-size: 40px; margin-bottom: 15px;">💼</div>
+    <h3 style="margin: 0; color: #5dade2; font-size: 1.2em;">LinkedIn</h3>
+    <p style="margin-top: 10px; font-size: 0.9em; color: #ced4da; margin-bottom: 0;">Découvrir mon réseau professionnel</p>
+  </a>
+
+</div>
+
 <!-- BOUTON CV FLOTTANT -->
 <a href="/images/CV.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
   📄 Télécharger mon CV
