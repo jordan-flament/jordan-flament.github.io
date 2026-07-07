@@ -360,7 +360,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">59655 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&2024 &#8203 - 08/2025</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2024 &#8203 - 08/2025</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Licence pro Systèmes Automatisés, Réseaux et Informatique Industriel</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/promeo.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Proméo Formation
@@ -612,20 +612,26 @@ L'épreuve est un véritable marathon technique qui consiste à réaliser sur 4 
   Mon profil vous intéresse ? Vous avez une question sur l'un de mes projets ou vous souhaitez échanger sur des opportunités dans l'automatisme et la mécatronique ? N'hésitez pas à me contacter directement sur la plateforme de votre choix !
 </p>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 50px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 50px; max-width: 800px; margin-left: auto; margin-right: auto;">
   
-  <!-- EMAIL -->
   <a href="mailto:flamentjordan060803@gmail.com" style="flex: 1; min-width: 250px; background: rgba(64, 153, 255, 0.05); border: 1px solid rgba(64, 153, 255, 0.2); padding: 25px 20px; border-radius: 10px; text-align: center; text-decoration: none; color: #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
-    <div style="font-size: 40px; margin-bottom: 15px;">📧</div>
+    <div style="height: 45px; margin-bottom: 15px; color: #4099ff;">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" style="height: 100%;">
+        <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+      </svg>
+    </div>
     <h3 style="margin: 0; color: #4099ff; font-size: 1.2em;">Par Email</h3>
     <p style="margin-top: 10px; font-size: 0.9em; color: #ced4da; margin-bottom: 0;">M'envoyer un message</p>
   </a>
 
-  <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/jordan-flament-6247b41b6" target="_blank" style="flex: 1; min-width: 250px; background: rgba(10, 102, 194, 0.05); border: 1px solid rgba(10, 102, 194, 0.3); padding: 25px 20px; border-radius: 10px; text-align: center; text-decoration: none; color: #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
-    <div style="font-size: 40px; margin-bottom: 15px;">💼</div>
+    <div style="height: 45px; margin-bottom: 15px; color: #5dade2;">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" style="height: 100%;">
+        <path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/>
+      </svg>
+    </div>
     <h3 style="margin: 0; color: #5dade2; font-size: 1.2em;">LinkedIn</h3>
-    <p style="margin-top: 10px; font-size: 0.9em; color: #ced4da; margin-bottom: 0;">Découvrir mon réseau professionnel</p>
+    <p style="margin-top: 10px; font-size: 0.9em; color: #ced4da; margin-bottom: 0;">Découvrir mon profil professionnel</p>
   </a>
 
 </div>
@@ -634,5 +640,4 @@ L'épreuve est un véritable marathon technique qui consiste à réaliser sur 4 
 <a href="/images/CV.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
   📄 Télécharger mon CV
 </a>
-
 
