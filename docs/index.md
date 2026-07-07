@@ -297,6 +297,7 @@ En plus de ma mission d'**expert référent téritorial**, je participe au déve
     <h3 style="margin-top: 0; color: #ffffff; font-size: 1.2em; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px;">🖥️ Supervision & Sécurité</h3>
     <div style="margin-top: 15px;">
       <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">PcVue</span>
+      <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">WinCc</span>
       <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">PnozMultiConfigurator</span>
       <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Windowserie</span>
       <span style="display: inline-block; background: rgba(155,89,182,0.15); color: #c39bd3; border: 1px solid rgba(155,89,182,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.85em; margin: 4px 2px; font-weight: bold;">Réseaux Industriels</span>
@@ -351,7 +352,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     
     <ul style="list-style: none; padding-left: 0; margin-bottom: 0; color: #e9ecef;">
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2025 - En cours</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032025 - En cours</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Diplôme d'ingénieur en génie électrique et mécatronique</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/polytech.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Polytech'Lille
@@ -359,7 +360,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">59655 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2024 - 08/2025</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032024 - 08/2025</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Licence pro Systèmes Automatisés, Réseaux et Informatique Industriel</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/promeo.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Proméo Formation
@@ -368,7 +369,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">80080 - Amiens</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2022 - 08/2024</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032022 - 08/2024</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">BTS électrotechnique</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -376,7 +377,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">37100 - Tours</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2022 - 08/2023</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032022 - 08/2023</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Titre pro Technicien Supérieur en Maintenance Industrielle</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -384,7 +385,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">37100 - Tours</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2021 - 08/2022</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032021 - 08/2022</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Titre pro Technicien en Maintenance Industrielle</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -392,7 +393,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">59491 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2018 - 08/2021</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032018 - 08/2021</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Bac Pro Métier de l'Electricité et de ses Environnements Connectés</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -401,7 +402,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <span style="font-style: normal; font-size: 0.9em; color: #adb5bd;">59491 - Villeneuve d'Ascq</span>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/2018 - 08/2020</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #4099ff;">09/&#82032018 - 08/2020</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">BEP Electrotechnique</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/compagnons.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Les compagnons du devoir et du tour de France
@@ -418,7 +419,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
     
     <ul style="list-style: none; padding-left: 0; margin-bottom: 0; color: #e9ecef;">
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2024 - En cours</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#82032024 - En cours</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Ingénieur Automaticien</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/pouchain.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Pouchain SAS
@@ -427,7 +428,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <small style="display: block; margin-top: 5px; color: #adb5bd; line-height: 1.5;">• Programmation d'automates <br>• Réalisation de supervisions <br>• TIA Portal, Step 7, PCS7<br>• EcoStructure, Unity pro, PL7-pro <br> • PcVue <br> • PnozMultiConfigurator <br>• Windowserie <br>• Réseaux <br>• Réalisation de schémas électrique (See-Electrical Expert) </small>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2023 - 08/2024</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#82032023 - 08/2024</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Electrotechnicien</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/sgm.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">SGM Industry
@@ -436,7 +437,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <small style="display: block; margin-top: 5px; color: #adb5bd; line-height: 1.5;">• Réalisation de machines pour des parcs à bois, scieries <br> • Etude électrique (e-plan - see electrical expert) <br> • Automatisme (TIA Portal) <br> • Réalisation des armoires électriques<br> • Réalisation du câblage machine <br> • Essais et validation <br> • Dépannage - SAV <br> • Devis et commande </small>      
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2022 - 08/2023</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#82032022 - 08/2023</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti Technicien de maintenance itinérant</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/mecaservice.png" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">MécaService
@@ -445,7 +446,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <small style="display: block; margin-top: 5px; color: #adb5bd; line-height: 1.5;">• Maintenance mécanique <br> • Maintenance électrique <br> • Maintenance pneumatique <br> • Maintenance hydraulique <br> • Transfert industriel <br> • Dépannage <br> • Devis et étude électrique </small>
       </li>
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2021 - 08/2022</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#82032021 - 08/2022</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti monteur-câbleur</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/eurodifroid.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Eurodifroid
@@ -454,7 +455,7 @@ Voici l'évolution en parallèle de ma formation théorique et de mon expérienc
         <small style="display: block; margin-top: 5px; color: #adb5bd; line-height: 1.5;">• Réalisation de machines de refroidissement <br> • Réalisation de coffret et armoires électriques <br> • Câblage machine <br> • Auto-contrôle</small>
       </li> 
       <li style="margin-bottom: 25px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding-bottom: 15px;">
-        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/2018 - 08/2021</span>
+        <span style="font-weight: bold; display: block; font-size: 1.1em; color: #00c853;">09/&#82032018 - 08/2021</span>
         <span style="font-weight: 600; display: block; margin-top: 5px;">Apprenti électricien</span>
         <span style="font-style: italic; color: #ced4da;">
           <img src="images/ecotechnics.jpg" style="height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;">Ecotechnics
