@@ -8,23 +8,10 @@ theme:
     - toc.integrate
     - navigation.expand
   palette:
-    # Mode clair
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: slate
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Passer en mode sombre
-    
     # Mode sombre
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: slate
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Passer en mode clair
+    scheme : slate
+    primary : indigo
+    accent : blue
 
 extra_javascript:
   - javascripts/effet.js
