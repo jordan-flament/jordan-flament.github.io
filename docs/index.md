@@ -637,7 +637,7 @@ L'épreuve est un véritable marathon technique qui consiste à réaliser sur 4 
 </div>
 
 <!-- BOUTON CV FLOTTANT -->
-<a href="/images/CV_Jordan.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
+<a href="/images/CV.pdf" target="_blank" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; background-color: #4099ff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 0.9em; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
   📄 Télécharger mon CV
 </a>
 
