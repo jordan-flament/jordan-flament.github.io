@@ -126,8 +126,8 @@ Pour bien comprendre le rôle des convoyeurs, voici le parcours précis d'un bid
   </div>
 </div>
 
-<div style="text-align: center; margin-top: 50px; margin-bottom: 30px;">
-  <a href="../" style="background-color: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); color: inherit; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold; transition: 0.3s;">
-    ⬅️ Retour au Portfolio
+<div style="margin-top: 40px;">
+  <a href="../#mes-projets" style="background-color: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); color: #4099ff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    ⬅️ Retour à l'accueil
   </a>
 </div>
