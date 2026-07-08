@@ -1,0 +1,11 @@
+/* ANIMATION DES CARTES AU SURVOL */
+.hover-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease !important;
+}
+
+.hover-card:hover {
+    transform: translateY(-5px); /* Soulève légèrement la carte */
+    box-shadow: 0 8px 20px rgba(64, 153, 255, 0.15) !important; /* Ajoute une lueur diffuse */
+    border-color: rgba(64, 153, 255, 0.4) !important; /* Illumine subtilement la bordure */
+    cursor: pointer;
+}
